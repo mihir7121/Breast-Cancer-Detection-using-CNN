@@ -1,4 +1,4 @@
-# USAGE
+# USAGE: To seperate the dataset into 3 sets (namely Training, Testinng and Validation) 
 # python build_dataset.py
 
 # import the necessary packages
